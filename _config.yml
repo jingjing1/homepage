@@ -22,10 +22,10 @@ repository               : "chenjingjing.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo-jingjing.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Jingjing Chen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Shanghai"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
