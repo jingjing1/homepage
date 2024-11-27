@@ -13,15 +13,15 @@ title_separator          : "-"
 name                     : &name "Jingjing Chen"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chenjingjing.github.io"
+baseurl                  : "https://github.com/jingjing1/homepage" # the subpath of your site, e.g. "/blog"
+repository               : "homepage.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/bio-photo-jingjing.jpg"
+  avatar           : "/images/bio-photo-jingjing.jpg"
   name             : "Jingjing Chen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
