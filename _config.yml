@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Jingjing Chen"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "https://github.com/jingjing1/homepage" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "homepage.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,7 +22,7 @@ repository               : "homepage.github.io"
 author:
   # Biographic information
   avatar           : "/images/bio-photo-jingjing.jpg"
-  name             : "Jingjing Chen"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Shanghai"
