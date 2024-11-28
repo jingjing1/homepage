@@ -13,8 +13,8 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
 
 ### Open Positions
 
-I am looking for 2-3 interns working on Generative AI Security. Please fell free to email with your CV if you are intersted. 
-Currently, there are no openings for PhD students starting in Fall 2025.
+* I am looking for 2-3 interns working on Generative AI Security. Please fell free to email with your CV if you are intersted. 
+* Currently, there are no openings for PhD students starting in Fall 2025.
 
 ### News
 
