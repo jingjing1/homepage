@@ -53,7 +53,7 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
         </div>
       {% endif %}
       {% unless title_shown %}
-        <p>{{ category[1].title }}</p><hr />
+        <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
