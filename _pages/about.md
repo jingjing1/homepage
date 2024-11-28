@@ -32,7 +32,8 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
 * **[July 2024]** Five papers are accepted by ACM Multimedia 2024!
 * **[July 2024]** Two papers are accepted by ECCV 2024!
 * **[May, 2024]** My PhD students Weizhi Peng and Tianwen Qian have successfully defended their doctoral dissertations！
-* **[May, 2024]** My master students Yanqi Wu, Yue Yu, Wenzhuo Xu, Yiqiang Lv, Xueqing Zhou have successfully defended their doctoral dissertations！
+* **[May, 2024]** My master students Yanqi Wu, Yue Yu, Wenzhuo Xu, Yiqiang Lv, Xueqing Zhou have successfully defended their doctoral dissertations!
+  
 ------
 
 
