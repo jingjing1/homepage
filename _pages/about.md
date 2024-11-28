@@ -11,7 +11,7 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
 
 ------
 
-<div style="font-size: 0.9em;"> <!-- 缩小字体一级显示 -->
+
 
 ## Open Positions
 
@@ -67,7 +67,5 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
   {% endfor %}
 {% endif %}
 
-
-</div>
 
 
