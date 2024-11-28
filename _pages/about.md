@@ -13,43 +13,44 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
 
 ### Open Positions
 
-------
 I am looking for 2-3 interns working on Generative AI Security. Please fell free to email with your CV if you are intersted. 
 Currently, there are no openings for PhD students starting in Fall 2025.
 
 ### News
 
+[Nov 2024] My Ph.D. student, Weizhi Peng (graduated in June 2024), has been awarded the CSIG Outstanding Doctoral Dissertation Award!
+
 ------
+
 
 ### Selected Publications
 
-<section id="selected-publications">
-  <h2>Selected Publications</h2>
-  <ul class="publications-list">
-    {% for publication in site.publications %}
-      {% if publication.selected %}
-        <li class="publication-item">
-          <div class="publication-content">
-            <!-- 显示图片 -->
-            {% if publication.image %}
-              <div class="publication-image">
-                <img src="{{ publication.image | relative_url }}" alt="{{ publication.title }}">
-              </div>
-            {% endif %}
-            <!-- 显示标题、作者和日期 -->
-            <div class="publication-details">
-              <h3><a href="{{ publication.url | relative_url }}">{{ publication.title }}</a></h3>
-              <p>
-                <small>
-                  {{ publication.date | date: "%B %Y" }}
-                  {% if publication.authors %} - {{ publication.authors }}{% endif %}
-                </small>
-              </p>
-            </div>
-          </div>
-        </li>
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
       {% endif %}
+      <!-- 显示图片 -->
+      {% if publication.image %}
+        <div class="publication-image">
+          <img src="{{ publication.image | relative_url }}" alt="{{ publication.title }}">
+        </div>
+      {% endif %}
+       <!-- 显示标题、作者和日期 -->
+      {% unless title_shown %}
+        <p>{{ category[1].title }}</p><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
     {% endfor %}
-  </ul>
-</section>
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
 
