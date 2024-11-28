@@ -47,13 +47,11 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
-      <!-- 显示图片 -->
       {% if publication.image %}
         <div class="publication-image">
-          <img src="{{ publication.image | relative_url }}" alt="{{ publication.title }}">
+          <img src="{{ category[1].preview }}" alt="{{ category[1].title }}">
         </div>
       {% endif %}
-       <!-- 显示标题、作者和日期 -->
       {% unless title_shown %}
         <p>{{ category[1].title }}</p><hr />
         {% assign title_shown = true %}
@@ -67,5 +65,7 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
   {% endfor %}
 {% endif %}
 
+
+## Former members
 
 
