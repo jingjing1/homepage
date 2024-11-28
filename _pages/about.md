@@ -39,7 +39,6 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
 
 ## Selected Publications
 
-<!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -47,13 +46,8 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
-      {% if publication.image %}
-        <div class="publication-image">
-          <img src="{{ category[1].preview }}" alt="{{ category[1].title }}">
-        </div>
-      {% endif %}
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h3>{{ category[1].title }}</h3><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
