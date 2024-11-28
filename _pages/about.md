@@ -16,10 +16,21 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
 * I am looking for 2-3 interns working on Generative AI Security. Please fell free to email with your CV if you are intersted. 
 * Currently, there are no openings for PhD students starting in Fall 2025.
 
+
+------
+
 ### News
 
-[Nov 2024] My Ph.D. student, Weizhi Peng (graduated in June 2024), has been awarded the CSIG Outstanding Doctoral Dissertation Award!
-
+* Nov 2024] My Ph.D. student, Weizhi Peng (graduated in June 2024), has been awarded the CSIG Outstanding Doctoral Dissertation Award! [link](https://mp.weixin.qq.com/s/jjrRQ2tlBL_SBXrBmhqj0g)
+* [Nov 2024] ] I am appointed as an Associate Editor for ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)!
+* [Oct 2024] I am awarded ACM SIGMM Rising Star Award! [link](http://www.sigmm.org/news/sigmm_rising_star_award_2024)
+* [Oct 2024] One paper about open-set single-source domain generalization is accepted by TMM 2024!
+* Oct 2024] I am appointed as an Associate Editor for IEEE Transactions on Multimedia (TMM)!
+* Sep 2024] I am listed as “Stanford/Elsevier’s Top 2% Scientist in 2024!
+* [July 2024] Five papers are accepted by ACM Multimedia 2024!
+* [July 2024] Two papers are accepted by ECCV 2024!
+* [May, 2024] My PhD students Weizhi Peng and Tianwen Qian have successfully defended their doctoral dissertations！
+* [May, 2024] My master students Yanqi Wu, Yue Yu, Wenzhuo Xu, Yiqiang Lv, Xueqing Zhou have successfully defended their doctoral dissertations！
 ------
 
 
