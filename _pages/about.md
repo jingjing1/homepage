@@ -44,6 +44,48 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
   {% include archive-single.html %}
 {% endfor %}
 
+
+------
+
+## Academic Services
+
+* Associate Editor: IEEE TMM, ACM TOMM, Neurocomputing
+* Editor: ACM SIGMM Records
+* Technical Committee Member: IEEE-CAS Multimedia Systems & Applications (2021-2025)
+* Conference Area Chair (AC): ACM Multimedia (2020, 2024), ACL (2023)  
+* Senior Program Chair: AAAI (2023, 2024, 2025)
+* Conference Organizer: ACM Multimedia 2021 (Registration Chair), ACM ICMR 2022 (Publicity Chair), ICME 2022 (Special Session Chair), ACM Multimedia Asia 2023 (Publicity Chair)
+* Conference Reviewer: ACM MM, ICLR, CVPR, ICCV, ECCV etc. 
+* Journal Reviewer: TPAMI, TIP, TKDE, TMM, TOMM, TCSVT, etc
+
+------
+
+### Teaching Experience
+
+*Instructor, COMP130124, Computer Vision, Fudan University, For Undergraduate Students, Fall 2021, 2022, 2023, 2024
+*Instructor, COMP620028, Information Retrieval, Fudan University, For graduate Students, Fall 2020, 2021, 2022, 2023, 2024
+*Instructor, Advanced Media Computing, Fudan University, For Senior Undergraduate and Graduate Students, Summer Semester 2022
+*Instructor, Frontiers of Computer Vision, For Senior Undergraduate and Graduate Students, Summer Semester 2022
+
+
+------
+
+### Group members: 
+**PhD Students: **
+Jiarui Yang  (September 2024 – present)
+Yue Yu (September 2024 - present)
+Guoshan Liu (September 2024 – present)
+Xue Song ( September 2022 - present)
+Yang Jiao (September 2021 – present)
+Pengkun Jiao  (September 2021 – present)
+Kai Chen (September 2021 – present)
+
+**Mater Students:**
+
+
+
+
+
 ## Former members
 
 
