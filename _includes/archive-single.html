@@ -29,10 +29,8 @@
     <h3> <b> {{ post.title }} </b> </h3>
 
     {% if post.author %}
-      <p>{{ post.author }}</p>
-    {% endif %}
-
-    {% if post.publisher %}
+      <p>{{ post.author }} <\br></p>
+    {% elif post.publisher %}
       <p>{{ post.publisher }}</p>
     {% endif %}
     
