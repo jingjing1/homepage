@@ -13,17 +13,19 @@ About me
 ======
 I am currently an Associate Professor at the School of Computer Science, Fudan University. Prior to joining Fudan, I was a Research Fellow at the School of Computing,  National University of Singapore (NUS), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). I received My Ph.D. degree in Computer Science from City University of Hong Kong in July 2018, supervised by [Prof. Chong-Wah Ngo](https://computing.smu.edu.sg/faculty/profile/601/ngo-chong-wah). I received several accolades, including the Best Student Paper Award at ACM Multimedia 2016, the Best Student Paper Award at Multimedia Modeling 2017, the"ACM Shanghai Rising Star Award" in 2020, and the "AI 2000 Most Influential Scholar Nomination Award" in 2021, “ACM SIGMM Rising Star Award” in 2024 and listed as “Stanford/Elsevier’s Top 2% Scientist” in 2024 etc.
 
-Open Positions
+------
+
+### Open Positions
 
 ------
 I am looking for 2-3 interns working on Generative AI Security. Please fell free to email with your CV if you are intersted. 
 Currently, there are no openings for PhD students starting in Fall 2025.
 
-News
+### News
 
 ------
 
-Selected Publications
+### Selected Publications
 
 <section id="selected-publications">
   <h2>Selected Publications</h2>
@@ -55,5 +57,3 @@ Selected Publications
   </ul>
 </section>
 
-
-------
