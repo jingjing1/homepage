@@ -28,6 +28,7 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
 * **[Oct 2024]** I am awarded ACM SIGMM Rising Star Award! [link](http://www.sigmm.org/news/sigmm_rising_star_award_2024)
 * **[Oct 2024]** One paper about open-set single-source domain generalization is accepted by TMM 2024!
 * **[Oct 2024]** I am appointed as an Associate Editor for IEEE Transactions on Multimedia (TMM)!
+* **[Oct 2024]** My master’s students, Ziyi Gao and Junhao Xv, have been awarded the National Scholarship!
 * **[Sep 2024]** I am listed as “Stanford/Elsevier’s Top 2% Scientist in 2024!
 * **[July 2024]** Five papers are accepted by ACM Multimedia 2024!
 * **[July 2024]** Two papers are accepted by ECCV 2024!
