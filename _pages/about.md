@@ -11,7 +11,9 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
 
 ------
 
-### Open Positions
+<div style="font-size: 0.9em;"> <!-- 缩小字体一级显示 -->
+
+## Open Positions
 
 * I am looking for 2-3 interns working on Generative AI Security. Please fell free to email with your CV if you are intersted. 
 * Currently, there are no openings for PhD students starting in Fall 2025.
@@ -19,7 +21,7 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
 
 ------
 
-### News
+## News
 
 * **Nov 2024]** My Ph.D. student, Weizhi Peng (graduated in June 2024), has been awarded the CSIG Outstanding Doctoral Dissertation Award! [link](https://mp.weixin.qq.com/s/jjrRQ2tlBL_SBXrBmhqj0g)
 * **[Nov 2024]** ] I am appointed as an Associate Editor for ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)!
@@ -34,7 +36,7 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
 ------
 
 
-### Selected Publications
+## Selected Publications
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
@@ -63,5 +65,8 @@ I am currently an Associate Professor at the School of Computer Science, Fudan U
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+
+
+</div>
 
 
