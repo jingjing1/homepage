@@ -31,6 +31,10 @@
     {% if post.author %}
       <p>{{ post.author }}</p>
     {% endif %}
+
+    {% if post.publisher %}
+      <p>{{ post.publisher }}</p>
+    {% endif %}
     
     {% if post.paperurl %}
       <p><a href=" {{ post.paperurl }} ">[Paper]</a></p>
